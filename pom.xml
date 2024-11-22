@@ -48,7 +48,8 @@
 		</dependency>
 	</dependencies>
 
-	<build>
+        <build>
+            <finalName>guru</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
